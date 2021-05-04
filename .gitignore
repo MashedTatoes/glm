@@ -39,7 +39,8 @@ install_manifest.txt
 
 # Test logs
 Testing/*
-
+bin/
+obj/
 # Test input
 test/gtc/*.dds
 

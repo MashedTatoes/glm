@@ -11,6 +11,7 @@
 #include <glm/ext/scalar_uint_sized.hpp>
 #include <glm/glm.hpp>
 
+
 namespace glm
 {
 // tvec1 type explicit instantiation
